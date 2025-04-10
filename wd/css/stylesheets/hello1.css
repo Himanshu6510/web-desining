@@ -1,0 +1,22 @@
+.para{
+    color: aqua;
+}
+#heading{
+   background-color: brown;
+}
+.about{
+    background-color: aqua;
+    width: 50px;
+}
+
+#p1{
+    color: bisque;
+}
+
+#p2{
+    color: blue;
+}
+
+#p3{
+    color: rgb(38, 41, 41);
+}

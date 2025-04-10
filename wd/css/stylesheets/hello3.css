@@ -1,0 +1,7 @@
+.box{
+    width: 50%;
+    height: 200px;
+    background-color: brown;
+    /* solid dotted double dashed*/
+    border: 2px solid palevioletred;
+}
