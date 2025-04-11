@@ -1,0 +1,65 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Playwrite+MX+Guides&family=Winky+Rough:ital,wght@0,300..900;1,300..900&display=swap');
+
+.playwrite-mx-guides-regular {
+    font-family: "Playwrite MX Guides", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .heading{
+    background-color: #FFD63A;
+  }
+  .para{
+    background-color: blue;
+    color: #FFD63A;
+    display: inline-block;
+    width: 500px;
+    height: 200px;
+    /*TRBL |TB LR | TRLB*/
+    margin: 5px 8px 9px 3px;
+    box-shadow: 10px 10px 10px 20px  ;
+
+  }
+  span{
+    background-color: aqua;
+    display: block;
+  }
+
+  .box{
+    height: 200px;
+    width: 200px;
+    background-color: blueviolet;
+    border: 2px solid black; 
+    display: inline-block;
+    margin: 50px 50px 0px 0px;
+  }
+
+  .hello{
+    
+    margin: 0px 0px 0px 450px;
+  }
+  #box1{
+    border-radius: 10%;
+  }
+
+  #box2{
+    /*TL_BR TR BL*/
+    /*TL  TR-BL  BR*/
+    border-radius: 50% 0% 20%;
+  }
+
+  #box3{
+    border-radius: 50% 50% 0% 0% ;
+  }
+  #box4{
+    border-radius: 50% 50% 50% 50%;
+    box-shadow: 10px 10px 10px 20px  ;
+
+  }
+
+  .shadow{
+    text-align: center;
+    text-shadow: 0px 0px 10px red;
+  }

@@ -4,4 +4,28 @@
     background-color: brown;
     /* solid dotted double dashed*/
     border: 2px solid palevioletred;
+
+}
+#box1{
+    text-align: left;
+    word-spacing: 40px;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 800;
+    
+}
+
+#box2{
+    text-align: right;
+    letter-spacing: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#box3{
+    text-align: center;
+    line-height: 40px;
+}
+
+#box4{
+    text-align: justify;
 }
