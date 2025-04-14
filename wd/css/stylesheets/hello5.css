@@ -1,0 +1,49 @@
+.box {
+    border: 2px solid black;}
+
+.box p{
+    background-color: brown;
+}
+
+
+/* chid selector*/
+.box > p{
+    border: 2px solid black;
+}
+
+.box + p{
+    border: 4px chartreuse solid;
+}
+
+.para::first-letter{
+    color: aqua;
+    font-size: 100px;
+
+}
+
+.para::first-line{
+    background-color: blueviolet;
+}
+
+li:first-child{
+    color: aqua;
+}
+
+li:last-child{
+    color: brown;
+}
+
+li:nth-child(3)
+{
+    border: 3px solid red;
+}
+
+li:nth-child(odd)
+{
+    border: 3px solid red;
+}
+
+button:hover{
+  background-color: aqua;
+}
+
