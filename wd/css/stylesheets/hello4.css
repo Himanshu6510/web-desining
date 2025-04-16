@@ -37,11 +37,12 @@
     background-image: url('../photo-1742201876722-85a042294575.avif');
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: 80% 0%;
   }
 
   .hello{
     
-    margin: 0px 0px 0px 450px;
+    margin: 0px 0px 0px 180px;
   }
   #box1{
     border-radius: 10%;
